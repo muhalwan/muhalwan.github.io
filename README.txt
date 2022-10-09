@@ -1,2 +1,3 @@
 Templete:
-    AIR by freehtml5.co 
+    original by AIR - freehtml5.co
+    remake by muhalwan
